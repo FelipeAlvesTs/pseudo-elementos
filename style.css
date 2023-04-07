@@ -1,5 +1,5 @@
-h2::before {
-    content: url()
+.before::before {
+    content: url(images/favicon.ico)
 }
 
 h2::after {
